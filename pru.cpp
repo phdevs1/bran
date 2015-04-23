@@ -1,6 +1,6 @@
 #include <stadio>
 int main(int argc, char const *argv[])
 {
-	/* code */
+	cout<<"hello1";
 	return 0;
 }
