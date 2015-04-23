@@ -13,8 +13,12 @@ int main(int argc, char const *argv[])
 
 				cout<<"tmr";
 								cout<<"tmr3";
+<<<<<<< HEAD
 			cout<<"tmr5";
 cout<<"hello2";
+=======
+		cout<<"tmr1231";
+>>>>>>> master
 	return 0;
 }
 
