@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char const *argv[])
+{
+<<<<<<< HEAD
+	cout<<"hello world123"<<endl;
+=======
+	cout<<"hello world"<<endl;
+>>>>>>> rama2
+	cout<<"ramas en conflicto"<<endl;
+	return 0;
+}
