@@ -2,7 +2,6 @@
 using namespace std;
 int main(int argc, char const *argv[])
 {
-	cout<<"hello world"<<endl;
-	cout<<"ramas en conflicto"<<endl;
+	cout<<"rama2"<<endl;
 	return 0;
 }
